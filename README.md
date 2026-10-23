@@ -1,5 +1,5 @@
 # mytestRepo
 
-***<u>Chase Addams</u>***
+***<ins>Chase Addams</ins>***
 
-***<u>SYST 16023 MS Powershell Scripting</u>***
+***<ins>SYST 16023 MS Powershell Scripting</ins>***
